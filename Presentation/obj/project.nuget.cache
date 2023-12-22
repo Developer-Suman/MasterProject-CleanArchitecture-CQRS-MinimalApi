@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EByiPnhhZv8fgLdTBerXX+aVFCia7f97RlsmzA0aVDlI9GCNqGmhnEN+yRvGiOWuHJbE0kogqygTnKnjXhi1LA==",
+  "dgSpecHash": "74EldMX931AkPXMnIPIEKSofSinPiOkIz8K+8p/t98WQZDZgmeDBzMoMyDRpr3Zsr/CybfGu9Bcky23bNOu8Ow==",
   "success": true,
-  "projectFilePath": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\suman\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\suman\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

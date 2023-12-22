@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\Domain.csproj",
+      "projectPath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\suman\\.nuget\\packages\\",
-      "outputPath": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\obj\\",
+      "outputPath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,88 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB146E9-5F1B-49B4-B51C-68071D8ACFF2}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\masterproject-cleanarchitecture-cqrs-minimalapi\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB146E9-5F1B-49B4-B51C-68071D8ACFF2}|WEB\\WEB.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A5C03E0-DD38-4194-9710-1DF41CD8639E}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\masterproject-cleanarchitecture-cqrs-minimalapi\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A5C03E0-DD38-4194-9710-1DF41CD8639E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6309F0C2-10C6-4956-AA6E-36A8D06BEDD1}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\masterproject-cleanarchitecture-cqrs-minimalapi\\infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6309F0C2-10C6-4956-AA6E-36A8D06BEDD1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E88F5AEC-A81E-41AC-A95D-E3601DB0B52C}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\masterproject-cleanarchitecture-cqrs-minimalapi\\application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E88F5AEC-A81E-41AC-A95D-E3601DB0B52C}|Application\\Application.csproj|solutionrelative:application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyReferences.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Presentation\\AssemblyReferences.cs",
-              "RelativeDocumentMoniker": "Presentation\\AssemblyReferences.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Presentation\\AssemblyReferences.cs",
-              "RelativeToolTip": "Presentation\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwAwAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T13:26:32.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyReferences.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Infrastructure\\AssemblyReferences.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\AssemblyReferences.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Infrastructure\\AssemblyReferences.cs",
-              "RelativeToolTip": "Infrastructure\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T13:25:16.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyReferences.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Application\\AssemblyReferences.cs",
-              "RelativeDocumentMoniker": "Application\\AssemblyReferences.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Application\\AssemblyReferences.cs",
-              "RelativeToolTip": "Application\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T13:18:13.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\WEB\\Program.cs",
-              "RelativeDocumentMoniker": "WEB\\Program.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\WEB\\Program.cs",
-              "RelativeToolTip": "WEB\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-22T13:16:57.324Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
