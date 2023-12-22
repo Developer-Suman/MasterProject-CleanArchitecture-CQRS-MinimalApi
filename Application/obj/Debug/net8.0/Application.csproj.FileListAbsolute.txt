@@ -1,0 +1,16 @@
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\bin\Debug\net8.0\Application.deps.json
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\bin\Debug\net8.0\Application.dll
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\bin\Debug\net8.0\Application.pdb
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\bin\Debug\net8.0\Domain.dll
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\bin\Debug\net8.0\Domain.pdb
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.dll
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\refint\Application.dll
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\Application.pdb
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Application\obj\Debug\net8.0\ref\Application.dll
