@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFPkqBYajaiZb+bqkKivsMcZ3CCmhLouB4v5qpPvTWChYaJ727iUKFGOr/Ee59/KoEdHvrIeP9+arkhc7L47Tg==",
+  "dgSpecHash": "gVXp/x971WsPgWbEgpLEk8VwRFoAn6AHVrJekyzKVkoB4ANtr+EjD5StOvSiKDlXFRLqGAwH1B3OjRWDTjDfBQ==",
   "success": true,
   "projectFilePath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Application\\Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\suman\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
-    "C:\\Users\\suman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\suman\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\suman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

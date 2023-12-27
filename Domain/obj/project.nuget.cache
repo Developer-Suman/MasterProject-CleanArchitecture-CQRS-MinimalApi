@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "05UTR1FOL7d/ZGvEOi39HnuvECaLSCzGcOwTKn6URaJIlmN6wSJcWgsLfCIpzpuVFDPV7rkT15GqjW8VGKU+/g==",
+  "dgSpecHash": "9yHA51a3n1dDJww1671YZue6wN3zC6XIll2ZofbVyQ/Vbn+MusATfl/y8EOOplsbTo6PjhJQNVNSsN4GKoBvcg==",
   "success": true,
   "projectFilePath": "C:\\MyWorkSpace\\CQRS\\Master Project\\MasterProject-CleanArchitecture-CQRS-MinimalApi\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
