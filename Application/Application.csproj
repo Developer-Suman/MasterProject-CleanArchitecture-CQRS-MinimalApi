@@ -11,8 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstraction\" />
-    <Folder Include="Static\" />
+    <Folder Include="Static\Cache\" />
   </ItemGroup>
 
   <ItemGroup>

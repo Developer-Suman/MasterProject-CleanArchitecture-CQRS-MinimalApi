@@ -10,3 +10,4 @@ C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalA
 C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Domain\obj\Debug\net8.0\Domain.pdb
 C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\MyWorkSpace\CQRS\Master Project\MasterProject-CleanArchitecture-CQRS-MinimalApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
